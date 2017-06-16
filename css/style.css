@@ -1,0 +1,42 @@
+h1{
+	color:#000000
+
+}
+p{}
+
+body{
+
+   background:#9cf4a5;
+}
+.navbar-inverse .navbar-brand{
+	background: black;
+	color:white;
+	font-family: 'Pangolin', cursive;
+
+
+}
+.navbar-inverse{
+	background: black;
+
+}
+.navbar-inverse .navbar-nav li a{
+	color:white;
+	font-family: 'Pangolin', cursive;
+}
+
+main{
+	margin-left: 5%;
+}
+#batman{
+	width: 300px;
+	margin: 30px;
+}
+
+#hemma_turkos{
+	width: 300px;
+	margin: 30px;
+}
+#rum{
+	width: 200px;
+	margin: 30px;
+}
